@@ -1,33 +1,33 @@
-bory[backgroound-color: #38d58;]
+bory{backgroound-color: #38d58;}
 color:White
-[
+}
     margin:0
     padding:0
-]
+}
 
-body[font-family: ''poppins'', sans-serif;]
+body{font-family: ''poppins'', sans-serif;}
     
-.cabecalho-imagem [ 
+.cabecalho-imagem {
     width:20%;
-]
-.cabecalho [
+}
+.cabecalho {
     background-color: #424E61;
     color:white;
     display:flex;
     justify-content: space-around;
     padding:24px 0;
-]
- .cabecalho-lista-item[ display: inline-block;
+}
+ .cabecalho-lista-item{ display: inline-block;
  margin: 0 16px;
  padding: 24px 0;
- font-size: 24px;]
- .escola-imagem[ width: 25%;]
- .escola[ backgroud-imagem: linear-gradient(#424E61,#16CFF8);
+ font-size: 24px;}
+ .escola-imagem{ width: 25%;}
+ .escola{ backgroud-imagem: linear-gradient(hsl(315, 82%, 49%),#a516f8);
  color: white;
  display: flex;
  justify-content:center;
  align-items: center;
- padding: 24px 0;]
-  .escola-div-conteudo[width: 35%;]
-  .escila-titulo[ padding: 24px 0]
-  p[ padding:12px 0]
+ padding: 24px 0;}
+  .escola-div-conteudo{width: 35%;}
+  .escila-titulo{ padding: 24px 0}
+  p{ padding:12px 0}
