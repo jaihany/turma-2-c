@@ -48,3 +48,11 @@ padding: 50px 0;
 <img class="est icone">
 <img class="estudante-icone">
 </div>
+estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+    <span>  est1 est2 est3 <span>
+    <\span>                <\span>
+    <span> est4 est5 est6 <span>
+    <\span>               <\span>
